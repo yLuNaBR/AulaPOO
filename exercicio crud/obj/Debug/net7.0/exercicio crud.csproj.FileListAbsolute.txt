@@ -1,0 +1,15 @@
+C:\Users\andre\Desktop\POO\exercicio crud\bin\Debug\net7.0\exercicio crud.exe
+C:\Users\andre\Desktop\POO\exercicio crud\bin\Debug\net7.0\exercicio crud.deps.json
+C:\Users\andre\Desktop\POO\exercicio crud\bin\Debug\net7.0\exercicio crud.runtimeconfig.json
+C:\Users\andre\Desktop\POO\exercicio crud\bin\Debug\net7.0\exercicio crud.dll
+C:\Users\andre\Desktop\POO\exercicio crud\bin\Debug\net7.0\exercicio crud.pdb
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.AssemblyInfo.cs
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.dll
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\refint\exercicio crud.dll
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.pdb
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\exercicio crud.genruntimeconfig.cache
+C:\Users\andre\Desktop\POO\exercicio crud\obj\Debug\net7.0\ref\exercicio crud.dll
